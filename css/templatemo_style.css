@@ -7,7 +7,8 @@ http://www.templatemo.com/tm-474-app-landing
 */
 
 @font-face {
-    font-family: 'Fira Sans';
+    font-family: 'Baloo Bhai 2', cursive;
+    
     src: url('../fonts/FiraSans-Light.eot');
     src: local('Fira Sans Light'),
          url('../fonts/FiraSans-Light.eot') format('embedded-opentype'),
@@ -17,7 +18,7 @@ http://www.templatemo.com/tm-474-app-landing
     font-style: normal;
 }
 @font-face {
-    font-family: 'Fira Sans';
+    font-family: 'Baloo Bhai 2', cursive;
     src: url('../fonts/FiraSans-Regular.eot');
     src: local('Fira Sans Regular'),
          url('../fonts/FiraSans-Regular.eot') format('embedded-opentype'),
@@ -28,7 +29,7 @@ http://www.templatemo.com/tm-474-app-landing
 
 }
 @font-face {
-    font-family: 'Fira Sans';
+    font-family: 'Baloo Bhai 2', cursive;
     src: url('../fonts/FiraSans-Bold.eot');
     src: local('Fira Sans Bold'),
          url('../fonts/FiraSans-Bold.eot') format('embedded-opentype'),
